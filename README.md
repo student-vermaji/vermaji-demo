@@ -1,3 +1,5 @@
 # vermaji-demo
 This is my first Git Repository .
-Author - Aditya Verma 
+<br>
+
+<h1>Author - Aditya Verma </h1>
